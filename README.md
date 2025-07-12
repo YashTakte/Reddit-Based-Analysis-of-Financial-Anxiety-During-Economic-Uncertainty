@@ -2,6 +2,9 @@
 
 This project explores how Reddit users express financial anxiety during economically uncertain times. By analyzing over 1,000 comments from the subreddits r/personalfinance and r/unemployment, the project uncovers key themes, sentiment patterns, and linguistic insights using a combination of natural language processing (NLP), topic modeling, and machine learning techniques.
 
+You can read the full paper here:  
+**[Medium Article: Reddit-Based Analysis of Financial Anxiety During Economic Uncertainty](https://medium.com/@ytakte/reddit-based-analysis-of-financial-anxiety-during-economic-uncertainty-1493-words-711eda091274)**
+
 ## Project Goals
 - Understand dominant topics related to financial stress on Reddit.
 - Classify user sentiment as Coping or Anxious using supervised learning.
@@ -44,4 +47,3 @@ This project explores how Reddit users express financial anxiety during economic
 - Topic 7 (Housing/Rent) and Topic 4 (Inflation/Salary) appeared most frequently in Anxious comments.
 - Words like "expensive", "debt", and "past" were strongly associated with anxiety.
 - Coping users used terms like "wedding", "good", and "learning" more frequently.
-
